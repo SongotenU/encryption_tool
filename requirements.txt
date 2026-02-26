@@ -1,0 +1,15 @@
+# FileCrypt Dependencies
+
+# Encryption libraries
+argon2-cffi>=23.1.0
+cryptography>=42.0.0
+
+# GUI
+PyQt6>=6.6.0
+
+# Build (for creating .app bundle)
+pyinstaller>=6.0.0
+
+# Development (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
